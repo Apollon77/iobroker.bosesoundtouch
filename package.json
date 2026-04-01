@@ -28,7 +28,7 @@
     "request": "^2.88.2",
     "string-format": "^2.0.0",
     "ws": "^7.5.3",
-    "xml2js": "^0.4.23",
+    "xml2js": "^0.6.2",
     "@iobroker/adapter-core": "^2.5.1"
   },
   "devDependencies": {
